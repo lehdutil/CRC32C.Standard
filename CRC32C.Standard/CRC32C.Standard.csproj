@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+    <RootNamespace>Ralph.Crc32C</RootNamespace>
+    <Authors>Ralph</Authors>
+    <Company />
+    <Description>CRC32C for .NET Standard</Description>
+    <Copyright>Copyright (c) 2017 Ralph (Tamaki Hidetsugu)</Copyright>
+    <PackageProjectUrl>https://github.com/r-ralph/CRC32C.Standard</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/r-ralph/CRC32C.Standard</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageLicenseUrl>https://github.com/r-ralph/LevelDB.Standard/blob/master/LICENSE</PackageLicenseUrl>
+  </PropertyGroup>
+
+</Project>
